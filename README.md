@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glory Akanbi
 - 👀 I’m interested in data, robotics, machine learning and artificial intelligence.
-- 🌱 I’m currently learning data analysis with Python, Excel, SQL and Power BI
-- 💞️ I’m looking to collaborate on data science and machine learning projects
+- 🌱 I’m currently exploring projects and concepts relating to machine learing/data science.
+- 💞️ I’m looking to collaborate on projects aligned with my interests.
 - 📫 How to reach me Whatsapp-07036373452
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love endless learning of different concepts and collaboration with different people as well.
