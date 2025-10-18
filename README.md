@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects aligned with my interests.
 - 📫 How to reach me Whatsapp-07036373452
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love endless learning of different concepts and collaboration with different people as well.
+- ⚡ Fun fact: I love endless learning of different concepts and collaiboration with different people as well..
 
 <!---
 Glory-AI/Glory-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
