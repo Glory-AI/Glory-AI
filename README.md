@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glory Akanbi
-- 👀 I’m interested in data, robotics, machine learning and drone technology.
+- 👀 I’m deeply interested in data, robotics, machine learning and drone technology.
   
-- 🌱 I’m currently exploring projects and concepts relating to machine learning, drone conceptualization and data science.
+- 🌱 I’m currently exploring projects and concepts relating to machine learning, drone conceptualization and robotics.
 - 💞️ I’m looking to collaborate on projects aligned with my interests.
 
 - 📫 How to reach me
